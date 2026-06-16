@@ -40,3 +40,7 @@ These queries formed the foundation for deeper data storytelling and business de
 - Produced insights that support business decisions and reporting  
 - Added a portfolio‑ready SQL project showcasing analytical thinking and technical skill  
 
+<img width="1920" height="1080" alt="Screenshot (179)" src="https://github.com/user-attachments/assets/5ecc9079-1220-4f68-ab52-26cde392b682" />
+
+<img width="1920" height="1080" alt="Screenshot (180)" src="https://github.com/user-attachments/assets/2615bed3-ff17-48fc-93a1-1c48991e28ba" />
+
